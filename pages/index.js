@@ -1,4 +1,3 @@
-// pages/index.js
 import Head from 'next/head';
 import ToDo from '../components/ToDo';
 
