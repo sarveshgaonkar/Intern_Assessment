@@ -1,4 +1,3 @@
-// components/ToDo.js
 import React, { useState, useEffect } from 'react';
 import ToDoItem from './ToDoItem';
 
