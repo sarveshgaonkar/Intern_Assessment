@@ -1,4 +1,3 @@
-// components/ToDoItem.js
 import React, { useState } from 'react';
 
 const ToDoItem = ({ task, toggleComplete, deleteTask, editTask, toggleEdit }) => {
